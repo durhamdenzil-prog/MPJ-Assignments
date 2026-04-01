@@ -1,0 +1,4 @@
+Customer ID: 18
+Deposit Amount: 102000.0
+Status: Success
+--------------------
